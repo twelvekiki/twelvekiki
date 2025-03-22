@@ -16,7 +16,7 @@ My hobbies include watching Anime, reading Manga, Music, and copy paste haha.
 kiki@twelve: ~/$ curl neofetch.sh | bash
 ```
 
-<img align="left" src="img/hisoka.png" width="130px"/>
+<img align="left" src="https://pomf2.lain.la/f/wodnibyx.jpeg" width="130px"/>
 
 ```csharp
 My Profile
@@ -59,19 +59,16 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 
 ## **📫 Contact**
 
-<a href="https://github.com/DikaArdnt"><img align="right" width="100" src="img/myLove2.webp" /></a> **Please Contact me on Discord for a quick
-response:** [qwerudi](https://discord.com/users/808923620792991754)
-
-**You can also email me here:** rudii.hello@gmail.com
+<a href="https://github.com/twelvekiki"><img align="right" width="100" src="https://pomf2.lain.la/f/q8k6bcqu.jpeg" /></a> **Please Contact me on Discord for a quick
+response:** [qwerudi](https://discord.com/users/887743079115808808)
 
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/808923620792991754)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/twelvekiki)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:rudii.hello@gmail.com)
 
 <div>
     <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
     <div align="center">
-        <img src="https://media1.tenor.com/m/JhjlD_2l5D8AAAAC/rory-mercury.gif" width="500"/>
+        <img src="https://pomf2.lain.la/f/q8k6bcqu.jpeg" width="500"/>
     </div>
 </div>
 <br> 
